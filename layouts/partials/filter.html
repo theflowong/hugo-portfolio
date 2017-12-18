@@ -1,0 +1,14 @@
+{{ "<!-- Filter -->" | safeHTML}}
+    <section id="filter">
+        <div class="inner">
+            <header class="major">
+                <h2>{{ .Site.Params.Filter.title}}</h2>
+            </header>
+            <p>{{ .Site.Params.Filter.subtitle | safeHTML }}</p>
+            <ul class="actions">
+                <li><a href="{{ .Site.Params.Filter.url | absURL}}" class="button next">{{ .Site.Params.Filter.buttonText }}</a></li>
+                <li><a href="{{ .Site.Params.Filter.url | absURL}}" class="button next">{{ .Site.Params.Filter.buttonText }}</a></li>
+                <li><a href="{{ .Site.Params.Filter.url | absURL}}" class="button next">{{ .Site.Params.Filter.buttonText }}</a></li>
+            </ul>
+        </div>
+    </section>

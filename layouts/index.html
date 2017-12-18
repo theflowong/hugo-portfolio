@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+	{{ partial "header.html" . }}
+	<body>
+
+	{{ "<!-- Wrapper -->" | safeHTML }}
+		<div id="wrapper">
+
+			{{ partial "nav.html" . }}
+
+			{{ partial "banner.html" . }}
+
+		{{ "<!-- Main -->" | safeHTML }}
+			<div id="main">
+
+                <div id="filter-container">
+                    {{ if .Site.Params.Filter.enable }}
+    					{{ partial "filter.html" . }}
+    				{{ end }}
+
+    				{{ if .Site.Params.Tiles.enable }}
+    					{{ partial "tiles.html" . }}
+    				{{ end }}
+                </div>
+
+				{{ if .Site.Params.About.enable }}
+					{{ partial "about.html" . }}
+				{{ end }}
+
+			</div>
+
+		{{ "<!-- Contact -->" | safeHTML}}
+			{{ if .Site.Params.Contact.enable }}
+				{{ partial "contact.html" . }}
+			{{ end }}
+
+		{{ "<!-- Footer -->" | safeHTML}}
+			{{ if .Site.Params.Footer.enable }}
+				{{ partial "footer.html" . }}
+			{{ end }}
+
+		</div>
+
+	{{ "<!-- Scripts -->" | safeHTML}}
+		{{ partial "js.html" . }}
+
+	</body>
+</html>

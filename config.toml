@@ -78,12 +78,10 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hello! I'm Flo."
-    subtitle = """I'm an artist, designer, coder, and social justice advocate.
-    Here are a few choice projects I've done."""
+    title = "Welcome to Flo's online brain!"
+    subtitle = """I'm an artist, designer, coder, and social justice advocate."""
     #subtitle = "I can't show you everything, so here are a few choice projects and series I've done. I work with a lot different mediums and themes, so you may want to sort by type."
     buttonText = "Explore My Creations"
-
 
   # Tiles Section
   [params.tiles]
@@ -147,13 +145,24 @@ googleAnalytics = ""
   #   buttonText = "See More"
   #   url = "blogs"
 
+  [params.filter-tile]
 
-  [params.two]
+  [params.filter]
+    enable = true
+    title = "My Projects"
+    subtitle = """
+        I can't show you everything,
+        so here are a few choice projects and series I've done.
+        <br>I work with a lot of different mediums and themes,
+        so you may want to sort by type.
+    """
+    buttonText = "See More"
+    url = "about"
+
+  [params.about]
     enable = true
     title = "About Flo"
-    subtitle = """Here is some description.
-    asdfjkl;asjdfkl;asdjfkl;
-    asdfjk random text."""
+    subtitle = "Flo is blah blah blah."
     buttonText = "See More"
     url = "about"
 
@@ -199,32 +208,33 @@ googleAnalytics = ""
     enable = true
     copyright = "Flo Wong 2018"
 
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
-
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
 
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/theflowong"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/florence-wong-14047474/"
       label = "LinkedIn"
 
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "http://flowong.com"
-      alt = "Flo Wong"
+    [[params.footer.social]]
+      icon = "fa-dribbble"
+      url= "https://dribbble.com/flo_wong"
+      label = "Dribbble"
+
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      url= "https://twitter.com/flo_rence_wong"
+      label = "Twitter"
+
+    [[params.footer.social]]
+      icon = "fa-facebook"
+      url= "https://www.facebook.com/florencewong1020"
+      label = "Facebook"
+
+    [[params.footer.social]]
+      icon = "fa-instagram"
+      url= "https://www.instagram.com/gowiththeflowong/"
+      label = "Instagram"
