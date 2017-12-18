@@ -1,0 +1,12 @@
+{{ "<!-- About -->" | safeHTML}}
+    <section id="about">
+        <div class="inner">
+            <header class="major">
+                <h2>{{ .Site.Params.About.title}}</h2>
+            </header>
+            <p>{{ .Site.Params.About.subtitle }}</p>
+            <ul class="actions">
+                <li><a href="{{ .Site.Params.About.url | absURL}}" class="button next">{{ .Site.Params.About.buttonText }}</a></li>
+            </ul>
+        </div>
+    </section>

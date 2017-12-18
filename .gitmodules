@@ -1,0 +1,6 @@
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty
+[submodule "themes/agency"]
+	path = themes/agency
+	url = https://github.com/digitalcraftsman/hugo-agency-theme
