@@ -14,12 +14,12 @@ gulp.task("scss", function () {
     //compile hashed css files
     gulp.src("static/scss/**/*.scss")
         .pipe(sass({
-            outputStyle : "compact" //nested
+            outputStyle : "nested" //compact, compressed, nested
         }))
         .pipe(autoprefixer({
             browsers : ["last 20 versions"]
         }))
-        .pipe(hash())
+        // .pipe(hash())
         .pipe(gulp.dest("static/css"))
 })
 
