@@ -78,10 +78,24 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Welcome to Flo's online brain!"
+    title = "Hello! I'm Flo."
     subtitle = """I'm an artist, designer, coder, and social justice advocate."""
     #subtitle = "I can't show you everything, so here are a few choice projects and series I've done. I work with a lot different mediums and themes, so you may want to sort by type."
-    buttonText = "Explore My Creations"
+    buttonText = "See What I've Created"
+
+
+  # Filter section
+  [params.filter]
+    enable = true
+    title = "My Projects"
+    subtitle = """
+        I can't show you everything,
+        so here are a few choice projects and series I've done.
+        <br>I work with a lot of different mediums and themes,
+        so you may want to sort by type.
+    """
+    buttonText = "See More"
+    url = "about"
 
   # Tiles Section
   [params.tiles]
@@ -89,40 +103,89 @@ googleAnalytics = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Aliquam"
+      title = "1"
       subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
+      image = "oberon-bay.jpg"
       url = "posts/aliquam"
+      filter = "design"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
+      title = "2"
       subtitle = "Feugiat Amet Tempus"
       image = "pic02.jpg"
       url = "blogs/tempus"
+      filter = "creative-coding"
 
     [[params.tiles.showcase]]
-      title = "Magna"
+      title = "3"
       subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
       url = "blogs/magna"
+      filter = "artwork"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
+      title = "4"
       subtitle = "Nisl Sed Aliquam"
       image = "pic04.jpg"
       url = "blogs/ipsum"
+      filter = "creative-coding"
+
 
     [[params.tiles.showcase]]
-      title = "Consequat"
+      title = "5"
       subtitle = "Ipsum Dolor Sit Amet"
       image = "pic05.jpg"
       url = "blogs/ipsum"
+      filter = "creative-coding"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
+      title = "6"
       subtitle = "Feugiat Amet Tempus"
       image = "pic06.jpg"
       url = "blogs/ipsum"
+      filter = "artwork"
+
+    [[params.tiles.showcase]]
+      title = "7"
+      subtitle = "Feugiat Amet Tempus"
+      image = "pic06.jpg"
+      url = "blogs/ipsum"
+      filter = "design"
+
+    [[params.tiles.showcase]]
+      title = "8"
+      subtitle = "Feugiat Amet Tempus"
+      image = "pic06.jpg"
+      url = "blogs/ipsum"
+      filter = "artwork"
+
+    [[params.tiles.showcase]]
+      title = "9"
+      subtitle = "Feugiat Amet Tempus"
+      image = "pic06.jpg"
+      url = "blogs/ipsum"
+      filter = "artwork"
+
+    [[params.tiles.showcase]]
+        title = "10"
+        subtitle = "Feugiat Amet Tempus"
+        image = "pic06.jpg"
+        url = "blogs/ipsum"
+        filter = "artwork"
+
+    [[params.tiles.showcase]]
+        title = "11"
+        subtitle = "Feugiat Amet Tempus"
+        image = "pic06.jpg"
+        url = "blogs/ipsum"
+        filter = "artwork"
+
+    [[params.tiles.showcase]]
+        title = "12"
+        subtitle = "Feugiat Amet Tempus"
+        image = "pic06.jpg"
+        url = "blogs/ipsum"
+        filter = "artwork"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -144,20 +207,6 @@ googleAnalytics = ""
   #   Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
   #   buttonText = "See More"
   #   url = "blogs"
-
-  [params.filter-tile]
-
-  [params.filter]
-    enable = true
-    title = "My Projects"
-    subtitle = """
-        I can't show you everything,
-        so here are a few choice projects and series I've done.
-        <br>I work with a lot of different mediums and themes,
-        so you may want to sort by type.
-    """
-    buttonText = "See More"
-    url = "about"
 
   [params.about]
     enable = true

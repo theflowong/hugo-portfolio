@@ -14,15 +14,13 @@
 		{{ "<!-- Main -->" | safeHTML }}
 			<div id="main">
 
-                <div id="filter-container">
-                    {{ if .Site.Params.Filter.enable }}
-    					{{ partial "filter.html" . }}
-    				{{ end }}
+                {{ if .Site.Params.Filter.enable }}
+					{{ partial "filter.html" . }}
+				{{ end }}
 
-    				{{ if .Site.Params.Tiles.enable }}
-    					{{ partial "tiles.html" . }}
-    				{{ end }}
-                </div>
+				{{ if .Site.Params.Tiles.enable }}
+					{{ partial "tile.html" . }}
+				{{ end }}
 
 				{{ if .Site.Params.About.enable }}
 					{{ partial "about.html" . }}

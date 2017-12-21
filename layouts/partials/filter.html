@@ -5,10 +5,18 @@
                 <h2>{{ .Site.Params.Filter.title}}</h2>
             </header>
             <p>{{ .Site.Params.Filter.subtitle | safeHTML }}</p>
-            <ul class="actions">
+            <div id="myBtnContainer">
+              <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+              <button class="btn" onclick="filterSelection('artwork')"> Artwork & Commissions</button>
+
+              <button class="btn" onclick="filterSelection('design')"> Design</button>
+              <button class="btn" onclick="filterSelection('digital-illustration')"> Digital Illustration</buton>
+              <button class="btn" onclick="filterSelection('creative-coding')"> Creative Coding</button>
+            </div>
+            <!-- <ul class="actions">
                 <li><a href="{{ .Site.Params.Filter.url | absURL}}" class="button next">{{ .Site.Params.Filter.buttonText }}</a></li>
                 <li><a href="{{ .Site.Params.Filter.url | absURL}}" class="button next">{{ .Site.Params.Filter.buttonText }}</a></li>
                 <li><a href="{{ .Site.Params.Filter.url | absURL}}" class="button next">{{ .Site.Params.Filter.buttonText }}</a></li>
-            </ul>
+            </ul> -->
         </div>
     </section>
