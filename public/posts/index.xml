@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Flo Wong</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Flo Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surreal Paintings</title>
+      <link>http://example.org/posts/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/posts/aliquam/</guid>
+      <description>These are a random collection of oil paintings and studies that I&amp;rsquo;ve done in the past, under the supervisor David Lefkowitz. Check him out, he&amp;rsquo;s great!
+In retrospect, a common thread to these paintings was their element of magical surrealism depicting fantastical dream-like landscapes.
+I&amp;rsquo;ve always aspired to portray my dreams, so my paintings might be reflecting that desire subonsciously.</description>
+    </item>
+    
+  </channel>
+</rss>

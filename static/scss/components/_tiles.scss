@@ -11,11 +11,15 @@
 		@include vendor('flex-wrap', 'wrap');
 		border-top: 0 !important;
 
+		.tile {
+			display: none;
+		}
+
 		& + * {
 			border-top: 0 !important;
 		}
 
-		article {
+		article.show {
 			@include vendor('align-items', 'center');
 			@include vendor('display', 'flex');
 			@include vendor('transition', (

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flo Wong</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content on Flo Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog 4</title>
+      <link>http://example.org/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog 4</title>
+      <link>http://example.org/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surreal Paintings</title>
+      <link>http://example.org/posts/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/posts/aliquam/</guid>
+      <description>These are a random collection of oil paintings and studies that I&amp;rsquo;ve done in the past, under the supervisor David Lefkowitz. Check him out, he&amp;rsquo;s great!
+In retrospect, a common thread to these paintings was their element of magical surrealism depicting fantastical dream-like landscapes.
+I&amp;rsquo;ve always aspired to portray my dreams, so my paintings might be reflecting that desire subonsciously.</description>
+    </item>
+    
+    <item>
+      <title>Surreal Paintings</title>
+      <link>http://example.org/posts/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/posts/aliquam/</guid>
+      <description>These are a random collection of oil paintings and studies that I&amp;rsquo;ve done in the past, under the supervisor David Lefkowitz. Check him out, he&amp;rsquo;s great!
+In retrospect, a common thread to these paintings was their element of magical surrealism depicting fantastical dream-like landscapes.
+I&amp;rsquo;ve always aspired to portray my dreams, so my paintings might be reflecting that desire subonsciously.</description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>http://example.org/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>http://example.org/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mamama</title>
+      <link>http://example.org/blogs/mama/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/mama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mamama</title>
+      <link>http://example.org/blogs/mama/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/mama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>http://example.org/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/ipsum/</guid>
+      <description>title subtitle Third Fourth Fifth Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>http://example.org/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/ipsum/</guid>
+      <description>title subtitle Third Fourth Fifth Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+    </item>
+    
+  </channel>
+</rss>
