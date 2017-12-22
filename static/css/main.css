@@ -1020,7 +1020,7 @@ body {
 /* Type */
 body, input, select, textarea {
   color: #ffffff;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "Avenir", "Source Sans Pro", Helvetica, sans-serif;
   font-size: 17pt;
   font-weight: 300;
   letter-spacing: 0.025em;
@@ -2328,7 +2328,8 @@ button,
     #banner > .inner .image {
       display: none; }
     #banner > .inner header {
-      width: auto; }
+      width: auto;
+      text-align: center; }
       #banner > .inner header > :first-child {
         width: auto; }
         #banner > .inner header > :first-child:after {
