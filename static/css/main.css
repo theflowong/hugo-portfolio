@@ -2540,6 +2540,13 @@ button,
       padding-top: 2.75em; } }
 
 /* Menu */
+#menu-horizontal {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  list-style-type: none; }
+
 #menu {
   -webkit-transition: -webkit-transform 0.35s ease, opacity 0.35s ease, visibility 0.35s;
   -webkit-transition: opacity 0.35s ease, visibility 0.35s, -webkit-transform 0.35s ease;

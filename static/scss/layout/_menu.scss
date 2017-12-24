@@ -6,6 +6,10 @@
 
 /* Menu */
 
+	#menu-horizontal {
+		display: inline-flex;
+		list-style-type: none;
+	}
 	#menu {
 		@include vendor('transition', (
 			'transform #{_duration(menu)} ease',
