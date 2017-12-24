@@ -82,7 +82,7 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, I'm Flo."
+    title = "Hello! I'm Flo."
     subtitle = """Thanks for stopping by! I'm an artist, designer, coder, and social justice advocate."""
     #subtitle = "I can't show you everything, so here are a few choice projects and series I've done. I work with a lot different mediums and themes, so you may want to sort by type."
     buttonText = "See My Work"
@@ -107,68 +107,68 @@ googleAnalytics = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "1"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "In Paradise"
+      subtitle = "Art: Watercolours"
       image = "oberon-bay.jpg"
-      url = "posts/aliquam"
-      filter = "design"
-
-    [[params.tiles.showcase]]
-      title = "2"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
-      filter = "creative-coding"
-
-    [[params.tiles.showcase]]
-      title = "3"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "posts/watercolours"
       filter = "artwork"
 
     [[params.tiles.showcase]]
-      title = "4"
-      subtitle = "Nisl Sed Aliquam"
+      title = "From the Earth"
+      subtitle = "Art: Ceramics"
+      image = "pic02.jpg"
+      url = "posts/pottery"
+      filter = "artwork"
+
+    [[params.tiles.showcase]]
+      title = "Where Dreams Are Made"
+      subtitle = "Art: Oil Paintings"
+      image = "pic03.jpg"
+      url = "posts/oil"
+      filter = "artwork"
+
+    [[params.tiles.showcase]]
+      title = "TABAH"
+      subtitle = "Commissioned artwork for album release covers"
       image = "pic04.jpg"
       url = "blogs/ipsum"
-      filter = "creative-coding"
+      filter = "artwork"
 
 
     [[params.tiles.showcase]]
-      title = "5"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "A Trip Down Memory Lane"
+      subtitle = "Drawings of people and places from my South Pacific travels"
       image = "pic05.jpg"
       url = "blogs/ipsum"
-      filter = "creative-coding"
+      filter = "artwork"
 
     [[params.tiles.showcase]]
-      title = "6"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Finger Hugs"
+      subtitle = "Cast metals"
       image = "pic06.jpg"
       url = "blogs/ipsum"
       filter = "artwork"
 
     [[params.tiles.showcase]]
-      title = "7"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Mourning Breakfast"
+      subtitle = "It's a pun."
       image = "pic06.jpg"
       url = "blogs/ipsum"
-      filter = "design"
+      filter = "artwork satire"
 
     [[params.tiles.showcase]]
-      title = "8"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Empathy"
+      subtitle = "Oil paintings"
       image = "pic06.jpg"
       url = "blogs/ipsum"
-      filter = "artwork"
+      filter = "artwork satire"
 
     [[params.tiles.showcase]]
-      title = "9"
+      title = ""
       subtitle = "Feugiat Amet Tempus"
       image = "pic06.jpg"
       url = "blogs/ipsum"
-      filter = "artwork"
+      filter = "artwork satire"
 
     [[params.tiles.showcase]]
         title = "10"
