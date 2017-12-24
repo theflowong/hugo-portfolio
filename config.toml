@@ -196,17 +196,14 @@ googleAnalytics = ""
     # To add more blogs just copy and paste the code.
 
 
-  # # Section Type Two
-  # [params.two]
-  #   enable = true
-  #   title = "Thoughts Blog"
-  #   subtitle = """Here is a random.
-  #   Mauris aliquet magna magna sed nunc rhoncus pharetra.
-  #   Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-  #   Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-  #   Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-  #   buttonText = "See More"
-  #   url = "blogs"
+  # Section Type Two
+  [params.two]
+    enable = true
+    title = "Blog"
+    subtitle = """A space for random musings and thoughts on life and design.
+    It's less polished, and more chaotic."""
+    buttonText = "See More"
+    url = "blogs"
 
   [params.about]
     enable = true
@@ -238,6 +235,10 @@ googleAnalytics = ""
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
+    [[params.contact.about]]
+    title = "About"
+    description = "blah"
+
     [[params.contact.email]]
     title = "Email"
     email = "hello [at] flowong.com"

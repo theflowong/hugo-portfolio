@@ -22,6 +22,10 @@
 					{{ partial "tile.html" . }}
 				{{ end }}
 
+				{{ if .Site.Params.Two.enable }}
+					{{ partial "two.html" . }}
+				{{ end}}
+
 				{{ if .Site.Params.About.enable }}
 					{{ partial "about.html" . }}
 				{{ end }}
