@@ -160,37 +160,79 @@ googleAnalytics = ""
       title = "Empathy"
       subtitle = "Oil paintings"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "posts/ipsum"
       filter = "artwork satire"
 
     [[params.tiles.showcase]]
-      title = ""
-      subtitle = "Feugiat Amet Tempus"
+      title = "Brainwashed"
+      subtitle = "Oil paintings"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "posts/ipsum"
       filter = "artwork satire"
 
     [[params.tiles.showcase]]
-        title = "10"
-        subtitle = "Feugiat Amet Tempus"
+        title = "Breathing Trees"
+        subtitle = "Fun times with ProcessingJS"
         image = "pic06.jpg"
-        url = "blogs/ipsum"
-        filter = "artwork"
+        url = "posts/breathing-trees"
+        filter = "code"
 
     [[params.tiles.showcase]]
-        title = "11"
-        subtitle = "Feugiat Amet Tempus"
+        title = "Logic Blocks Game"
+        subtitle = "Javascript Fun"
         image = "pic06.jpg"
-        url = "blogs/ipsum"
-        filter = "artwork"
+        url = "posts/logic-blocks"
+        filter = "code"
 
     [[params.tiles.showcase]]
-        title = "12"
-        subtitle = "Feugiat Amet Tempus"
+        title = "HAVEN Web App"
+        subtitle = "Javascript, Philips Hue API"
         image = "pic06.jpg"
-        url = "blogs/ipsum"
-        filter = "artwork"
-    # You can make more showcases by copy and pasting the code above
+        url = "posts/haven-webapp"
+        filter = "code"
+
+    [[params.tiles.showcase]]
+        title = "Kaa the Koala"
+        subtitle = "Graphic Design for a 2D Isometric Game"
+        image = "pic06.jpg"
+        url = "posts/kaa"
+        filter = "design"
+
+    [[params.tiles.showcase]]
+        title = "Compassionate Action for Animals"
+        subtitle = "Graphic design for various assets"
+        image = "pic06.jpg"
+        url = "posts/caa"
+        filter = "design illustration"
+
+    [[params.tiles.showcase]]
+        title = "HAVEN"
+        subtitle = "UI, Graphic design"
+        image = "pic06.jpg"
+        url = "posts/haven-design"
+        filter = "design"
+
+    [[params.tiles.showcase]]
+        title = "Digital Experiments"
+        subtitle = "Practicing Digital Paintings in Procreate"
+        image = "pic06.jpg"
+        url = "posts/procreate"
+        filter = "design illustration"
+
+    [[params.tiles.showcase]]
+        title = "Avatar Design"
+        subtitle = "First take on designing my avatar"
+        image = "pic06.jpg"
+        url = "posts/avatar"
+        filter = "design illustration"
+
+    [[params.tiles.showcase]]
+        title = "Editorial Illustrations"
+        subtitle = "Initial learnings and practice"
+        image = "pic06.jpg"
+        url = "posts/editorial"
+        filter = "design illustration"
+
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
