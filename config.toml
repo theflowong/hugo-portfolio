@@ -46,7 +46,7 @@ googleAnalytics = ""
 
     [[params.navigation.links]]
       name = "Projects"
-      url = "/#one"
+      url = "/#filter"
 
     [[params.navigation.links]]
       name = "Blogs"
@@ -82,10 +82,10 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Welcome to my blog!"
-    subtitle = """I'm an artist, designer, coder, and social justice advocate."""
+    title = "Hi, I'm Flo."
+    subtitle = """Thanks for stopping by! I'm an artist, designer, coder, and social justice advocate."""
     #subtitle = "I can't show you everything, so here are a few choice projects and series I've done. I work with a lot different mediums and themes, so you may want to sort by type."
-    buttonText = " Journey"
+    buttonText = "See My Work"
 
 
   # Filter section
