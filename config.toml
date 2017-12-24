@@ -192,6 +192,13 @@ googleAnalytics = ""
         filter = "code"
 
     [[params.tiles.showcase]]
+        title = "Old Website"
+        subtitle = "Web development"
+        image = "pic06.jpg"
+        url = "posts/portfolio-website"
+        filter = "code"
+
+    [[params.tiles.showcase]]
         title = "Kaa the Koala"
         subtitle = "Graphic Design for a 2D Isometric Game"
         image = "pic06.jpg"
@@ -246,18 +253,18 @@ googleAnalytics = ""
   [params.two]
     enable = true
     title = "Blog"
-    subtitle = """A space for random musings and thoughts on life and design.
+    subtitle = """A space for random musings and thoughts on life and design. Also for smaller and specific design projects.
     It's less polished, and more chaotic."""
     buttonText = "See More"
     url = "blogs"
 
-  [params.about]
-    enable = true
-    title = "About Flo"
-    subtitle = "Flo is blah blah blah."
-    buttonText = "See More"
-    url = "about"
-
+  # [params.about]
+  #   enable = true
+  #   title = "About Flo"
+  #   subtitle = "Flo is blah blah blah."
+  #   buttonText = "See More"
+  #   url = "about"
+  #
 
   # Contact section
   [params.contact]

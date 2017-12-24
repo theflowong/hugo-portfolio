@@ -5,21 +5,21 @@ date: 2017-12-17T21:41:22-08:00
 draft: true
 ---
 
-# Life Philosophy
+## Life Philosophy
 I believe we need to live with *intention*, *awareness*, and *kindness*, to think hard and critically about the societal systems we design and live in, the effects they perpetuate for us, and how our moral and social values fit in with them.
 
 Since I have the privilege to work with art, design, and code, I want to use my abilities as a voice (or a picture) to raise awareness on issues, to elicit conversation, reflection, and action, to tell the stories of those often unheard (or unseen), or "unthought."
 
-## Why am I vegan? (or, a plant-based advocate?)
+### Why am I vegan? (or, a plant-based advocate?)
 
-Throughout my life, I've investigated and written about the food industry and factory farming and had a multitude of conversations with people from different cultures about the ethics of eating animals.
+Throughout my life, I've investigated and written about the food industry and factory farming, and had a multitude of conversations with people from different cultures about the ethics of eating animals.
 
 It's evident we have a huge global problem: our unsustainable food systems, corruption in our meat, dairy and egg industries, and factory farming practices are detrimental to our health, environment, and animals.
 
 There's no simple global solution, because the food and meat industries are intertwined with so many different systems. But it's clear to me my individual solution: simply, to adopt a plant-based diet and lifestyle. It's extremely accessible, considering we live in 2017 and have the resources to do so, with just a little research, motivation, and open-mindedness to try new dishes.
 
 
-## Other Advocacies
+### Other Advocacies
 
 Otherwise, here are a few other things I believe are important.
 
@@ -30,16 +30,15 @@ Otherwise, here are a few other things I believe are important.
 
 Additionally, the amount of life, energy and beauty in the natural world inspires me, so often shows up as a theme in my art.
 
-## Other Interests
+### Other Interests
 
 Here are some things I'm exploring, or find intruiging or fun:
 
-- <a href="https://80000hours.org/">effective altruism</a>
-- longboard dancing (my <a href="https://www.youtube.com/watch?v=e7os4K_xI9Y">role model</a>)
-- <a class="effect ">web</a> and <a class="effect ">mobile</a>
-    <a class="effect ">development</a>
+- <a href="https://80000hours.org/">Effective altruism</a>
+- Longboard dancing (my <a href="https://www.youtube.com/watch?v=e7os4K_xI9Y">role model</a>)
+- <a class="effect " href="https://github.com/theflowong">Creative</a> <a class="effect " href="https://github.com/theflowong">coding</a>
 
-# Life Background
+## Life Background
 
 Life is a continuous educational journey. I'm currently residing in Vancouver, BC, working towards a Masters for Digital Media at the <a href="https://thecdm.ca/">Centre for Digital Media</a>.
 
