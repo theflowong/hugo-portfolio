@@ -1,0 +1,43 @@
+.effect {
+    &:hover {
+        font-size: 30px;
+    }
+}
+
+.random, .random2, .showing_off, .whoa {
+  color: #545454; }
+
+/* line 7, ../sass/overrides/_index.scss */
+.random:hover, .random2:hover, .showing_off:hover {
+  font-size: 30px;
+  font-family: Futura; }
+
+/* line 11, ../sass/overrides/_index.scss */
+p:hover .random {
+  color: #1e45c8; }
+
+/* line 15, ../sass/overrides/_index.scss */
+p:hover .random2 {
+  color: #32c814; }
+
+/* line 19, ../sass/overrides/_index.scss */
+p:hover .showing_off {
+  color: #c826fa; }
+
+/* line 23, ../sass/overrides/_index.scss */
+span.whoa:hover {
+  font-style: bold; }
+
+/* line 27, ../sass/overrides/_index.scss */
+span.secret {
+  display: none;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease; }
+
+/* line 36, ../sass/overrides/_index.scss */
+span.whoa:hover span.secret {
+  display: inline;
+  font-family: Futura; }

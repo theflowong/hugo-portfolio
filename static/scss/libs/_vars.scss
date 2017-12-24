@@ -20,13 +20,22 @@
 
 // Font.
 	$font: (
-		family:				('Avenir','Source Sans Pro', Helvetica, sans-serif),
+		family:				('Libre Baskerville','Avenir','Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
 		weight-bold:		600,
 		letter-spacing:		0.025em,
 		letter-spacing-alt:	0.25em
 	);
+
+	// $font-p: (
+	// 	family:				('Libre Baskerville','Arial','Source Sans Pro', Helvetica, sans-serif),
+	// 	family-fixed:		('Courier New', monospace),
+	// 	weight:				300,
+	// 	weight-bold:		600,
+	// 	letter-spacing:		0.025em,
+	// 	letter-spacing-alt:	0.25em
+	// );
 
 // Palette.
 	$palette: (
