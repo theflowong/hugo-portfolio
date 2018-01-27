@@ -109,29 +109,29 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "In Paradise"
       subtitle = "Art: Watercolours"
-      image = "oberon-bay.jpg"
+      image = "watercolours/oberon-bay.jpg"
       url = "posts/watercolours"
       filter = "artwork"
 
     [[params.tiles.showcase]]
       title = "From the Earth"
       subtitle = "Art: Ceramics"
-      image = "pic02.jpg"
+      image = "ceramics/cup3.jpg"
       url = "posts/pottery"
       filter = "artwork"
 
     [[params.tiles.showcase]]
       title = "Where Dreams Are Made"
       subtitle = "Art: Oil Paintings"
-      image = "pic03.jpg"
+      image = "oil/surrealist1.jpg"
       url = "posts/oil"
       filter = "artwork"
 
     [[params.tiles.showcase]]
       title = "TABAH"
       subtitle = "Commissioned artwork for album release covers"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      image = "tabah/tabah_1.jpg"
+      url = "posts/tabah"
       filter = "artwork"
 
 
