@@ -39,14 +39,14 @@
 
 // Palette.
 	$palette: (
-		bg:					#fafafa, //original: #242943,
-		bg-alt:				#2a2f4a, //original: #2a2f4a,
+		bg:					#fafafa, //white-ish for bg. original: #242943,
+		bg-alt:				#f7f7f7, //white-smoke/grey. original: #2a2f4a,
 		fg:					#767676, //grey for paragraph. original: #ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
+		fg-bold:			#4d4d4d, //for titles. #222222 is dark grey. // original: #ffffff,
+		fg-light:			#767676, //grey for copyright. original: rgba(244,244,255,0.2), // blue
+		border:				rgba(212,212,0,0.1), //original: rgba(212,212,255,0.1), // light blue
+		border-bg:			rgba(212,212,0,0.035), //original: rgba(212,212,255,0.035),
+		highlight:			#9bf1ff, // highlight blue
 		accent1:			#6fc3df,
 		accent2:			#8d82c4,
 		accent3:			#ec8d81,

@@ -1,6 +1,7 @@
 ---
-title: "Surreal Paintings"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+title: "In Paradise"
+subtitle: "Watercolours from the South Pacific"
+description: "Flo Wong: watercolours from the South Pacific."
 slug: "watercolours"
 image: ../watercolours/oberon-bay.jpg
 keywords: ""
@@ -11,11 +12,12 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 
-Winter of 2015, I had the chance to study abroad and travel around cities and national parks in the Cook Islands, New Zealand, and Australia with <a href="http://www.people.carleton.edu/~fhagstro/index.html">Fred Hagstrom</a>. I carried hand-bound sketchbooks with me, so whenever I observed something intriguing, I recorded it visually. Being constantly surrounded by pristine landscapes and cityscapes makes one realize the beauty and magnitude of nature.
+Winter of 2015, I had the chance to study abroad and travel around cities and national parks in the Cook Islands, New Zealand, and Australia with print and book artist <a href="http://www.people.carleton.edu/~fhagstro/index.html">Fred Hagstrom</a>. I carried hand-bound sketchbooks with me, so whenever I observed something intriguing, I recorded it visually. Being constantly surrounded by pristine landscapes and cityscapes makes one realize the beauty and magnitude of nature.
 
+Here are some of my works from the pages of my sketchbooks.
 
-<img src="/img/watercolours/watercolor1.jpg" alt="Example image" style="width: 100%;" />
-<img src="/img/watercolours/watercolor2.jpg" alt="Example image" style="width: 100%;" />
+For more pen and ink drawings, see my <a href="../travel/">travel sketches</a>.
+
 <img src="/img/watercolours/watercolor3.jpg" alt="Example image" style="width: 100%;" />
 <img src="/img/watercolours/watercolor4.jpg" alt="Example image" style="width: 100%;" />
 <img src="/img/watercolours/watercolor5.jpg" alt="Example image" style="width: 100%;" />
@@ -30,3 +32,5 @@ Winter of 2015, I had the chance to study abroad and travel around cities and na
 <img src="/img/watercolours/watercolor14.jpg" alt="Example image" style="width: 100%;" />
 <img src="/img/watercolours/watercolor16.jpg" alt="Example image" style="width: 100%;" />
 <img src="/img/watercolours/watercolor17.jpg" alt="Example image" style="width: 100%;" />
+<img src="/img/watercolours/watercolor1.jpg" alt="Example image" style="width: 100%;" />
+<img src="/img/watercolours/watercolor2.jpg" alt="Example image" style="width: 100%;" />

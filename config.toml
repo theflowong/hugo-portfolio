@@ -45,12 +45,12 @@ googleAnalytics = ""
     #   url = "#"
 
     [[params.navigation.links]]
-      name = "Projects"
+      name = "Portfolio"
       url = "/#filter"
 
-    [[params.navigation.links]]
-      name = "Blogs"
-      url = "/blogs"
+    # [[params.navigation.links]]
+    #   name = "Blogs"
+    #   url = "/blogs"
 
     [[params.navigation.links]]
       name = "About"
@@ -108,7 +108,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "In Paradise"
-      subtitle = "Art: Watercolours"
+      subtitle = "Watercolours of the South Pacific"
       image = "watercolours/oberon-bay.jpg"
       url = "posts/watercolours"
       filter = "artwork"
@@ -137,30 +137,30 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "A Trip Down Memory Lane"
-      subtitle = "Drawings of people and places from my South Pacific travels"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      subtitle = "Journal of people and places from my South Pacific travels"
+      image = "pen-sp/penink4.jpg"
+      url = "posts/travel"
       filter = "artwork"
 
     [[params.tiles.showcase]]
       title = "Finger Hugs"
       subtitle = "Cast metals"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+      image = "rings/ring_animals_square.jpg"
+      url = "posts/rings"
       filter = "artwork"
 
     [[params.tiles.showcase]]
       title = "Mourning Breakfast"
       subtitle = "It's a pun."
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+      image = "satire/mourning/breakfast.jpg"
+      url = "posts/mourning"
       filter = "artwork satire"
 
     [[params.tiles.showcase]]
       title = "Empathy"
       subtitle = "Oil paintings"
-      image = "pic06.jpg"
-      url = "posts/ipsum"
+      image = "satire/comps/comps-ingallery.jpg"
+      url = "posts/empathy"
       filter = "artwork satire"
 
     [[params.tiles.showcase]]
