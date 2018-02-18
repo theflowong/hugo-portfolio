@@ -52,13 +52,13 @@
 		fg-light:			#767676, //grey for copyright. original: rgba(244,244,255,0.2), // blue
 		border:				rgba(212,212,0,0.1), //original: rgba(212,212,255,0.1), // light blue
 		border-bg:			rgba(212,212,0,0.035), //original: rgba(212,212,255,0.035),
-		highlight:			#9bf1ff, // highlight blue
-		accent1:			$color1, //#6fc3df, // orange
-		accent2:			$color2, //#8d82c4, // blue
-		accent3:			$color3, //#ec8d81, // green
-		accent4:			$color4, //#e7b788, // turquoise
-		accent5:			$color5, //#8ea9e8, // purple
-		accent6:			#6fc3df //#87c5a4 // red
+		highlight:			#9bf1ff, // HIGHLIGHT. highlight blue
+		accent1:			#F2D68D, // yellow
+		accent2:			#FB7852, //bright orange //old: #8d82c4, //purple
+		accent3:			#ec8d81, //pink // YAS
+		accent4:			#96D2AE, //greenish //old: #e7b788 turquoise
+		accent5:			$color5, //yellow YAS //old: #8ea9e8, // purple
+		accent6:			#5BBFB3 //teal //old: #87c5a4 // red
 	);
 
 
