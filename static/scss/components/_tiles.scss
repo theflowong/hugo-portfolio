@@ -49,7 +49,9 @@
 				@include vendor('transition', 'opacity 0.5s ease');
 				position: relative;
 				z-index: 3;
+				@include vendor('text-align', 'center');
 				opacity: 0;
+				color: _palette(bg);
 			}
 
 			h3 {

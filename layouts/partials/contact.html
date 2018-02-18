@@ -1,7 +1,14 @@
 {{ "<!-- Contact -->" | safeHTML}}
     <section id="contact">
         <div class="inner">
+
             <section>
+                
+                <!-- TODO: see if you can make this above both sections -->
+                <header class="major">
+                    <h2>{{ .Site.Params.Contact.title}}</h2>
+                </header>
+
                 <form method="post" action="https://formspree.io/{{ .Site.Params.Contact.formEmail }}">
                     <div class="field half first">
                         <label for="name">Name</label>

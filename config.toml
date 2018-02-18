@@ -252,9 +252,8 @@ googleAnalytics = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Blog"
-    subtitle = """A space for random musings and thoughts on life and design. Also for smaller and specific design projects.
-    It's less polished, and more chaotic."""
+    title = "Previous Projects"
+    subtitle = """Some older work I've done that I don't quite talk about anymore."""
     buttonText = "See More"
     url = "blogs"
 
@@ -269,6 +268,7 @@ googleAnalytics = ""
   # Contact section
   [params.contact]
     enable = true
+    title = "Contact"
     buttonSend = "Send message"
     buttonClear = "Clear"
 

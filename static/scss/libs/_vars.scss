@@ -38,6 +38,12 @@
 	// );
 
 // Palette.
+	$color1: #f4f1de;
+	$color2: #e07a5f;
+	$color3: #3d405b;
+	$color4: #81b29a;
+	$color5: #f2cc8f;
+
 	$palette: (
 		bg:					#fafafa, //white-ish for bg. original: #242943,
 		bg-alt:				#f7f7f7, //white-smoke/grey. original: #2a2f4a,
@@ -47,17 +53,24 @@
 		border:				rgba(212,212,0,0.1), //original: rgba(212,212,255,0.1), // light blue
 		border-bg:			rgba(212,212,0,0.035), //original: rgba(212,212,255,0.035),
 		highlight:			#9bf1ff, // highlight blue
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		accent1:			$color1, //#6fc3df, // orange
+		accent2:			$color2, //#8d82c4, // blue
+		accent3:			$color3, //#ec8d81, // green
+		accent4:			$color4, //#e7b788, // turquoise
+		accent5:			$color5, //#8ea9e8, // purple
+		accent6:			#6fc3df //#87c5a4 // red
 	);
 
 
 
 	// /* Coolors Exported Palette - coolors.co/f4f1de-e07a5f-3d405b-81b29a-f2cc8f */
+	//
+	/* whatever language */
+	// $color1: #f4f1de;
+	// $color2: #e07a5f;
+	// $color3: #3d405b;
+	// $color4: #81b29a;
+	// $color5: #f2cc8f;
 	//
 	// /* HSL */
 	// $color1: hsla(52%, 50%, 91%, 1);
