@@ -1961,7 +1961,7 @@ button,
       width: 100%;
       z-index: 2; }
     .tiles article.show:after {
-      background-color: rgba(250, 250, 250, 0.25);
+      background-color: rgba(250, 250, 250, 0.1);
       content: '';
       display: block;
       height: 100%;
