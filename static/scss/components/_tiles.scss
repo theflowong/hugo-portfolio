@@ -46,8 +46,10 @@
 			}
 
 			header {
+				@include vendor('transition', 'opacity 0.5s ease');
 				position: relative;
 				z-index: 3;
+				opacity: 0;
 			}
 
 			h3 {
@@ -100,9 +102,12 @@
 				&:before {
 					opacity: 0.85;
 				}
+				header {
+					opacity: 0.85;
+				}
 			}
 
-			&.is-transitioning {
+			&.is-transitioning, & header.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
 				@include vendor('filter', 'blur(0.5em)');
 				opacity: 0;

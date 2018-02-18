@@ -1925,8 +1925,12 @@ button,
     .tiles article.show .image {
       display: none; }
     .tiles article.show header {
+      -webkit-transition: opacity 0.5s ease;
+      -o-transition: opacity 0.5s ease;
+      transition: opacity 0.5s ease;
       position: relative;
-      z-index: 3; }
+      z-index: 3;
+      opacity: 0; }
     .tiles article.show h3 {
       font-size: 1.75em;
       line-height: 1.3em; }
@@ -1965,7 +1969,9 @@ button,
       z-index: 1; }
     .tiles article.show:hover:before {
       opacity: 0.85; }
-    .tiles article.show.is-transitioning {
+    .tiles article.show:hover header {
+      opacity: 0.85; }
+    .tiles article.show.is-transitioning, .tiles article.show header.is-transitioning {
       -webkit-transform: scale(0.95);
       -ms-transform: scale(0.95);
       transform: scale(0.95);
