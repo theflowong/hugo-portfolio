@@ -38,7 +38,8 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 30%; //40%
+			margin: 1em;
 
 			.image {
 				display: none;
@@ -51,6 +52,7 @@
 
 			h3 {
 				font-size: 1.75em;
+				line-height: 1.3em;
 
 				a {
 					&:hover {
@@ -76,7 +78,7 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0;//0.85;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -96,7 +98,7 @@
 
 			&:hover {
 				&:before {
-					opacity: 0;
+					opacity: 0.85;
 				}
 			}
 
@@ -108,7 +110,7 @@
 
 			&:nth-child(4n - 1),
 			&:nth-child(4n - 2) {
-				width: 60%;
+				//width: 60%;
 			}
 
 			&:nth-child(6n - 5) {

@@ -1920,14 +1920,16 @@ button,
     min-height: 23em;
     overflow: hidden;
     position: relative;
-    width: 40%; }
+    width: 30%;
+    margin: 1em; }
     .tiles article.show .image {
       display: none; }
     .tiles article.show header {
       position: relative;
       z-index: 3; }
     .tiles article.show h3 {
-      font-size: 1.75em; }
+      font-size: 1.75em;
+      line-height: 1.3em; }
       .tiles article.show h3 a:hover {
         color: inherit !important; }
     .tiles article.show .link.primary {
@@ -1947,7 +1949,7 @@ button,
       display: block;
       height: 100%;
       left: 0;
-      opacity: 0.85;
+      opacity: 0;
       position: absolute;
       width: 100%;
       z-index: 2; }
@@ -1962,7 +1964,7 @@ button,
       width: 100%;
       z-index: 1; }
     .tiles article.show:hover:before {
-      opacity: 0; }
+      opacity: 0.85; }
     .tiles article.show.is-transitioning {
       -webkit-transform: scale(0.95);
       -ms-transform: scale(0.95);
@@ -1972,8 +1974,6 @@ button,
       -ms-filter: blur(0.5em);
       filter: blur(0.5em);
       opacity: 0; }
-    .tiles article.show:nth-child(4n - 1), .tiles article.show:nth-child(4n - 2) {
-      width: 60%; }
     .tiles article.show:nth-child(6n - 5):before {
       background-color: #6fc3df; }
     .tiles article.show:nth-child(6n - 4):before {
