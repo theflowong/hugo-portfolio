@@ -91,7 +91,7 @@ googleAnalytics = ""
   # Filter section
   [params.filter]
     enable = true
-    title = "My Projects"
+    title = "Selected Works"
     subtitle = """
         I can't show you everything,
         so here are a few choice projects and series I've done.
