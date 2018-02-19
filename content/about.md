@@ -1,9 +1,12 @@
 ---
 title: "About Flo"
-description: "About Flo Wong."
+description: "Flo Wong: About Page"
+# image: ../self-portait.jpg
 date: 2017-12-17T21:41:22-08:00
 draft: true
 ---
+
+<img src="/img/self-portrait.jpg" alt="Self Portrait painting" style="width: 100%;" />
 
 ## Life Philosophy
 I believe we need to live with *intention*, *awareness*, and *empathy*. We need to think hard and critically about the societal systems we live in and design for ourselves, how we might perpetuate them, and how they might complement or contradict our moral and social values.
@@ -35,7 +38,6 @@ Otherwise, here are a few other things I'm actively advocating for.
 - Designing for *social good*.
 
 Additionally, the amount of life, energy and beauty in the natural world inspires me, so often shows up as a theme in my work.
-
 
 ## Life Background
 

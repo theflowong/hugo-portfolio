@@ -21,7 +21,7 @@ googleAnalytics = ""
 
   # Link custom assets relative to /static
   custom_css = []
-  custom_js  = []
+  custom_js  = ['/js/processing.min.js']
   favicon    = "favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
@@ -84,7 +84,7 @@ googleAnalytics = ""
     # the 'static/img' folder.
     title = "Hello! I'm Flo."
     subtitle = """Thanks for stopping by! I'm an artist, designer, coder, and social justice advocate."""
-    #subtitle = "I can't show you everything, so here are a few choice projects and series I've done. I work with a lot different mediums and themes, so you may want to sort by type."
+    # subtitle = "I can't show you everything, so here are a few choice projects and series I've done. I work with a lot different mediums and themes, so you may want to sort by type."
     buttonText = "See My Work"
 
 
@@ -152,7 +152,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Mourning Breakfast"
       subtitle = "It's a pun."
-      image = "satire/mourning/breakfast.jpg"
+      image = "satire/mourning/breakfast-gallery-cropped.jpg"
       url = "posts/mourning"
       filter = "artwork satire"
 
@@ -173,7 +173,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
         title = "Breathing Trees"
         subtitle = "Fun times with ProcessingJS"
-        image = "pic06.jpg"
+        image = "code/trippy_trees1.png"
         url = "posts/breathing-trees"
         filter = "code"
 
