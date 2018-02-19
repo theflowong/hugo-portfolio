@@ -15,15 +15,18 @@
 		line-height: 1.65;
 
 		@include breakpoint(xlarge) {
-			font-size: 14pt;
+			font-size: 14pt;//.3em;//14pt;
+			//line-height: 2.1em;
 		}
 
 		@include breakpoint(large) {
-			font-size: 12pt;
+			font-size: 12pt;//1.3em;//12pt;
+			//line-height: 2.1em;
 		}
 
 		@include breakpoint(xxsmall) {
-			font-size: 11pt;
+			font-size: 11pt;//1.2em;//11pt;
+			//line-height: 2em;
 		}
 	}
 
@@ -72,19 +75,20 @@
 	}
 
 	h1 {
-		font-size: 2.5em;
+		font-size: 3.75em;//2.5em;
+		line-height: 1.3em;
 	}
 
 	h2 {
-		font-size: 1.75em;
+		font-size: 2.2em;//1.75em;
 	}
 
 	h3 {
-		font-size: 1.35em;
+		font-size: 1.7em;//.35em;
 	}
 
 	h4 {
-		font-size: 1.1em;
+		font-size: 1.3em;//1.1em;
 	}
 
 	h5 {
