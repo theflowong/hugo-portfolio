@@ -109,7 +109,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "In Paradise"
       subtitle = "Watercolours of the South Pacific"
-      image = "watercolours/oberon-bay.jpg"
+      image = "watercolours/oberon-bay-cropped.jpg"
       url = "posts/watercolours"
       filter = "artwork"
 
@@ -166,8 +166,8 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Brainwashed"
       subtitle = "Oil paintings"
-      image = "pic06.jpg"
-      url = "posts/ipsum"
+      image = "satire/brainwashed/veganads1_small.jpg"
+      url = "posts/brainwashed"
       filter = "artwork satire"
 
     [[params.tiles.showcase]]
